@@ -1,0 +1,19 @@
+﻿@model Northwind.MvcUI.Models.ProductIndexViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 class="page-header">Products</h3>
+
+<ul class="list-group">
+    @foreach (var product in Model.products)
+    {
+        <li class="list-group-item">
+            <h4>@product.ProductName</h4>
+            <p>@product.QuantityPerUnit</p>
+            <b>@product.UnitPrice.ToString("c")</b>
+        </li>
+    }
+</ul>

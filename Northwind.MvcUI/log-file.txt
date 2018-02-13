@@ -1,0 +1,9 @@
+2018-02-14 00:33:52,008 [5] INFO  MsbManager [(null)] - GetAll
+2018-02-14 00:33:52,028 [5] INFO  MsbManager [(null)] - Ürün Listesi getirildi
+2018-02-14 00:43:36,975 [5] INFO  MsbManager [(null)] - GetAll
+2018-02-14 00:43:36,995 [5] INFO  MsbManager [(null)] - Ürün Listesi getirildi
+2018-02-14 00:46:24,173 [5] INFO  MsbManager [(null)] - Ürün Listesi getirildi
+2018-02-14 00:48:56,247 [5] INFO  MsbManager [(null)] - Ürün Listesi getirildi
+2018-02-14 00:54:54,701 [5] INFO  MsbManager [(null)] - Ürün Listesi getirildi
+2018-02-14 00:56:47,935 [5] INFO  MsbManager [(null)] - Ürün Listesi getirildi
+2018-02-14 00:58:04,747 [5] INFO  MsbManager [(null)] - Ürün Listesi getirildi
