@@ -4,7 +4,7 @@
 1. For database; please execute script.sql file in MS Sql Server 2012 or higher.
 2. Configure your connection string in web.config file.
 
-This project is developed to show Open/Closed Principle and Dependency Inversion Design Pattern using SimpleInjector IOC Container.
+This project is developed to show Open/Closed Principle and Dependency Injection Design Pattern using SimpleInjector IOC Container.
 We have two logging mechanism in this project. log4Net and NLog. Both of them implement ILogManager interface. 
 I used Adapter Design Pattern in ILogManager.
 
